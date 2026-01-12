@@ -1,8 +1,8 @@
-621c976
 
-pick 621c976 added new images
-pick 76e8495 Track large JPGs with LFS
-pick 2ea71d5 Add 130 heron images via Git LFS
-pick 0037b5a added more pictures
-pick d092e3f added some more
-pick 1b961f3 added 19 jpgs
+
+
+
+mkdir jpg_images
+for f in *.HEIC; do
+    sips -s format jpeg "$f" --out "jpg_images/${f%.HEIC}.jpg"
+done
