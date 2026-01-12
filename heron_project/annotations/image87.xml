@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image87.jpg</filename>
+	<path>/Users/mike.bookham/Documents/source/heron-protect/images/image87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>373</ymin>
+			<xmax>277</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

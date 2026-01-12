@@ -1,5 +1,0 @@
-train: /absolute/path/to/heron_project/images/train
-val: /absolute/path/to/heron_project/images/val
-
-nc: 1
-names: ['heron']
